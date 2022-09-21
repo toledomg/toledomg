@@ -39,11 +39,13 @@ _"Adote um estilo e escolha o seu caminho. Seja você mesmo antes de tudo."_
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Toledomg Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=toledomg&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
-
-
-
 ---
-
+<p>
+<a href="https://github.com/toledomg?tab=repositories&q=&type=&language=&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/toledomg?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/DenverCoder1?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/toledomg?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+</p>
 <!--
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=toledomg&theme=onedark&locale=pt-br&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
