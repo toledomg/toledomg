@@ -10,6 +10,11 @@ _"Adote um estilo e escolha o seu caminho. Seja você mesmo antes de tudo."_
 
 </h2>
 
+
+---
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=toledomg&theme=onedark&locale=pt-br&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
 ---
 
 <!--
