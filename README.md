@@ -13,11 +13,14 @@ _"Adote um estilo e escolha o seu caminho. Seja você mesmo antes de tudo."_
 
 ---
 
+
+<!--
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=toledomg&theme=onedark&locale=pt-br&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ---
 
-<!--
+
 **toledomg/toledomg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
