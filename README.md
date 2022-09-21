@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 ⚡ ✨
 
 <h1 align="center" style="font-weight: bold;">
 
