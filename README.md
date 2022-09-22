@@ -12,6 +12,4 @@
 _"Adote um estilo e escolha o seu caminho. Seja você mesmo antes de tudo."_
 
 </h2>
-
-
 ---
