@@ -15,13 +15,3 @@ _"Adote um estilo e escolha o seu caminho. Seja você mesmo antes de tudo."_
 
 
 ---
-## 🔥 Streak stats
-
-<p align="center">
-  <a href="https://github.com/toledomg">
-    <img title="🔥 Estatísticas" alt="DenverCoder1's streak" src="https://streak-stats.demolab.com/?user=toledomg&theme=monokai-metallian&hide_border=true"/>
-  </a>
-</p>
-
-
----
