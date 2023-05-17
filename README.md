@@ -133,7 +133,7 @@ _"Adote um estilo e escolha o seu caminho. Seja você mesmo antes de tudo."_
     <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest"  width="40" height="40" />
   </a>
   </span>
-  
+    <!-- 
   <span>
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img
@@ -145,7 +145,7 @@ _"Adote um estilo e escolha o seu caminho. Seja você mesmo antes de tudo."_
   </a>
    </span>
    
-   
+
    <span>
      <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
     <img
@@ -156,7 +156,7 @@ _"Adote um estilo e escolha o seu caminho. Seja você mesmo antes de tudo."_
     />
   </a>
    </span>
-   
+   -->
    
 </div>
 <div  align="center"> 
