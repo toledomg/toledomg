@@ -144,7 +144,7 @@ _"Adote um estilo e escolha o seu caminho. Seja você mesmo antes de tudo."_
     />
   </a>
    </span>
-     <!-- 
+   
 
    <span>
      <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
@@ -156,7 +156,6 @@ _"Adote um estilo e escolha o seu caminho. Seja você mesmo antes de tudo."_
     />
   </a>
    </span>
-   -->
    
 </div>
 <div  align="center"> 
