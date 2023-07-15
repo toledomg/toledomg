@@ -31,7 +31,7 @@ _"Adote um estilo e escolha o seu caminho. Seja você mesmo antes de tudo."_
 
 - 🌱 No momento estou estudando o **módulo de back-end do curso de desenvolvimento web da Kenzie Academy Brasil.**
 
-- 💬 Pergunte-me sobre **HTML, CSS, JavaScript, React, Node.js, SQL, PostgreSQL, TypeOrm, Lógica de programação**
+- 💬 Pergunte-me sobre **HTML, CSS, JavaScript, React, Node.js, SQL, PostgreSQL, TypeOrm, Lógica de programação, Python, Django, Rest Framework**
 
 - 📫 Como chegar até mim **toledomg@yahoo.com.br**
 
