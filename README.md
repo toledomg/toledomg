@@ -85,7 +85,7 @@ _"Adote um estilo e escolha o seu caminho. Seja você mesmo antes de tudo."_
  <span>
     <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
         <img
-          src="https://img.stackshare.io/service/5936/nextjs.png"
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
           alt="nextjs"
           width="40"
           height="40"
@@ -161,7 +161,7 @@ _"Adote um estilo e escolha o seu caminho. Seja você mesmo antes de tudo."_
      <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img
       src="https://cdn.worldvectorlogo.com/logos/docker.svg"
-      alt="django"
+      alt="docker"
       width="40"
       height="40"
     />
@@ -169,10 +169,10 @@ _"Adote um estilo e escolha o seu caminho. Seja você mesmo antes de tudo."_
    </span>
 
   <span>
-     <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+     <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
     <img
-      src="https://cdn.worldvectorlogo.com/logos/next.svg"
-      alt="django"
+      src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg"
+      alt="nest"
       width="40"
       height="40"
     />
