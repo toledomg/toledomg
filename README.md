@@ -156,6 +156,28 @@ _"Adote um estilo e escolha o seu caminho. Seja você mesmo antes de tudo."_
     />
   </a>
    </span>
+
+   <span>
+     <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.worldvectorlogo.com/logos/docker.svg"
+      alt="django"
+      width="40"
+      height="40"
+    />
+  </a>
+   </span>
+
+  <span>
+     <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.worldvectorlogo.com/logos/next.svg"
+      alt="django"
+      width="40"
+      height="40"
+    />
+  </a>
+   </span>
    
 </div>
 <div  align="center"> 
