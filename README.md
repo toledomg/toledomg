@@ -29,9 +29,9 @@ _"Adote um estilo e escolha o seu caminho. Seja você mesmo antes de tudo."_
 
 - 🔭Atualmente estou trabalhando **LucHost Web**
 
-- 🌱 No momento estou estudando o **módulo de back-end do curso de desenvolvimento web da Kenzie Academy Brasil.**
+- 🌱 Sou desenvolvedot **FullStack.**
 
-- 💬 Pergunte-me sobre **HTML, CSS, JavaScript, React, Node.js, SQL, PostgreSQL, TypeOrm, Lógica de programação, Python, Django, Rest Framework**
+- 💬 Pergunte-me sobre **HTML, CSS, JavaScript, React, Node.js, SQL, PostgreSQL, MySQL, TypeOrm, Lógica de programação, Python, Django, Rest Framework, NestJS, Express, Next**
 
 - 📫 Como chegar até mim **toledomg@yahoo.com.br**
 
