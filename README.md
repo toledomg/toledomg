@@ -29,11 +29,13 @@ _"Adote um estilo e escolha o seu caminho. Seja você mesmo antes de tudo."_
 
 - 🔭Atualmente estou trabalhando **LucHost Web**
 
-- 🌱 Sou desenvolvedot **FullStack.**
+- 🚀 Sou desenvolvedot **FullStack.**
 
 - 💬 Pergunte-me sobre **HTML, CSS, JavaScript, React, Node.js, SQL, PostgreSQL, MySQL, TypeOrm, Lógica de programação, Python, Django, Rest Framework, NestJS, Express, Next**
 
 - 📫 Como chegar até mim **toledomg@yahoo.com.br**
+
+- ✨ MEu Portfólio: **https://portfolio.luchost.com**
 
 <div  align="center" style="display:flex" > 
 <h3 align="center">Linguagens e ferramentas:</h3>
