@@ -104,7 +104,7 @@ _"Adote um estilo e escolha o seu caminho. Seja você mesmo antes de tudo."_
   
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img
-      src="https://th.bing.com/th/id/OIP.1ji9NLQl3sOXktSoEYnt3wHaHa?pid=ImgDet&rs=1"
+      src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png"
       alt="express"
       width="40"
       height="40"
