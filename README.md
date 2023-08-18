@@ -1,4 +1,4 @@
-<body style=color:"#22272e">
+<body style="background-color:"#22272e">
   
 
 <!-- <h3 align="center">
