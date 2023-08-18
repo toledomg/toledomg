@@ -192,7 +192,7 @@ _"Adote um estilo e escolha o seu caminho. Seja você mesmo antes de tudo."_
 </div>
 <br>
 
-![Snake animation](https://github.com/toledomg/toledomg/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/toledomg/toledomg/blob/output/github-contribution-grid-snake.svg)
 
 <div  align="center"> 
 <h3 align="center">Conecte-se comigo:</h3>
