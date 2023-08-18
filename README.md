@@ -191,8 +191,9 @@ _"Adote um estilo e escolha o seu caminho. Seja você mesmo antes de tudo."_
   <img  height="160px" width="360px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=toledomg&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 <br>
-
-![Snake animation](https://github.com/toledomg/toledomg/blob/output/github-contribution-grid-snake-dark.svg)
+<!--
+![Snake animation](https://github.com/toledomg/toledomg/blob/output/github-contribution-grid-snake-dark.svg)-->
+![Snake animation](https://github.com/toledomg/toledomg/blob/output/github-contribution-grid-snake.svg)
 
 <div  align="center"> 
 <h3 align="center">Conecte-se comigo:</h3>
