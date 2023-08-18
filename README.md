@@ -1,4 +1,9 @@
-<body style="background-color:"#22272e">
+<style>
+    .gray {
+        background-color: #22272e;
+    }
+</style>
+<body class="gray">
   
 
 <!-- <h3 align="center">
