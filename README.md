@@ -1,9 +1,5 @@
-<style>
-    .gray {
-        background-color: #22272e;
-    }
-</style>
-<body class="gray">
+
+<body style=background-color: #22272e;>
   
 
 <!-- <h3 align="center">
