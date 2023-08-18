@@ -35,8 +35,11 @@ _"Adote um estilo e escolha o seu caminho. Seja você mesmo antes de tudo."_
 
 - 📫 Como chegar até mim **toledomg@yahoo.com.br**
 
-- ✨ MEu Portfólio: **https://portfolio.luchost.com**
+- ✨ Acesse meu Portfolio:
 
+  [![Preview](https://img.shields.io/badge/Preview-000?style=for-the-badge&logo=github&logoColor=7520FF)](https://portfolio.luchost.com/)
+  [![GitHub Page](https://img.shields.io/badge/</toledoDev>-7520FF?style=for-the-badge)](https://portfolio.luchost.com/)
+  
 <div  align="center" style="display:flex" > 
 <h3 align="center">Linguagens e ferramentas:</h3>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
