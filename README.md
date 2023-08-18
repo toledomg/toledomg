@@ -1,3 +1,6 @@
+<body style=background:color:#1c2128>
+  
+
 <!-- <h3 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
@@ -203,3 +206,4 @@ _"Adote um estilo e escolha o seu caminho. Seja você mesmo antes de tudo."_
 <a href="https://instagram.com/oalextoledo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Alexsandro_Toledo" height="30" width="40" /></a>
 </p>
 </div>
+</body>
