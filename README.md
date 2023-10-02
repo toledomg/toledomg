@@ -187,6 +187,17 @@ _"Adote um estilo e escolha o seu caminho. Seja você mesmo antes de tudo."_
     />
   </a>
    </span>
+ 
+  <span>
+     <a href=" https://angular.io/" target="_blank" rel="noreferrer">
+    <img
+      src="https://angular.io/assets/images/logos/angular/angular.svg"
+      alt="nest"
+      width="40"
+      height="40"
+    />
+  </a>
+   </span>
    
 </div>
 <div  align="center"> 
