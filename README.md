@@ -46,7 +46,7 @@ _"Adote um estilo e escolha o seu caminho. Seja você mesmo antes de tudo."_
 
 ## ✨ Portfolio
 
-[![Preview](https://img.shields.io/badge/Preview-000?style=for-the-badge&logo=github&logoColor=7520FF)](https://portfolio.luchost.com/)
+[![Preview](https://img.shields.io/badge/Preview-000?style=for-the-badge&logo=github&logoColor=7520FF)](https://luchost.com.br/)
 [![GitHub Page](https://img.shields.io/badge/</toledoDev>-7520FF?style=for-the-badge)](https://luchost.com.br/)
 
 ---
