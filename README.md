@@ -1,6 +1,6 @@
 <div style="background-color:#22272e;">
 
-<!-- 
+<!--
 <h3 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
@@ -40,7 +40,7 @@ _"Adote um estilo e escolha o seu caminho. Seja você mesmo antes de tudo."_
 - 🚀 Sou desenvolvedor **FullStack**
 - 💬 Pergunte-me sobre  
   **HTML, CSS, JavaScript, TypeScript, React, Next.js, Node.js, Express, SQL, PostgreSQL, MySQL, TypeORM, Python, Django, Django Rest Framework, NestJS, Lógica de Programação**
-- 📫 Como chegar até mim: **toledomg@yahoo.com.br**
+- 📫 Como chegar até mim: **<toledomg@yahoo.com.br>**
 
 ---
 
@@ -127,13 +127,13 @@ _"Adote um estilo e escolha o seu caminho. Seja você mesmo antes de tudo."_
 
 <div align="center">
 
-<img height="160px" width="360px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=toledomg&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="160px" width="360px" src="https://github-stats-extended.vercel.app/api?username=toledomg&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
-<img height="160px" width="360px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=toledomg&layout=compact&langs_count=16&theme=dracula"/>
+<img height="160px" width="360px" src="https://github-stats-extended.vercel.app/api/top-langs/?username=toledomg&layout=compact&langs_count=16&theme=dracula"/>
 
 </div>
 
-<!-- 
+<!--
 ![Snake animation](https://github.com/toledomg/toledomg/blob/output/github-contribution-grid-snake-dark.svg)
 -->
 
