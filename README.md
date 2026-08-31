@@ -25,32 +25,26 @@
 
 ### Sobre mim
 
-Trabalho na **[LucHost Web](https://luchost.com.br)** desenvolvendo aplicações web de ponta a ponta: interfaces, APIs, banco de dados e deploy.
+Sou **FullStack** e fundador da **[LucHost Web](https://luchost.com.br)**. Transformo ideias em produtos digitais — do design da interface ao deploy em produção.
 
-Meu dia a dia gira em torno de **TypeScript** e ecossistema **React / Next.js** no frontend, com **Node.js / NestJS** ou **Python / Django** no backend — sempre buscando código claro, estável e fácil de manter.
+Especializado em **React / Next.js** e **TypeScript**, com backends em **Node / NestJS** ou **Python / Django**. Entrego sistemas que clientes usam de verdade: estáveis, rápidos e fáceis de evoluir.
 
-Além de projetos sob demanda, também construo produtos próprios e ferramentas internas para agilizar operação e entrega.
+Hoje em **Uberaba, BR** · foco em produtos web, APIs e automação.
 
-| | |
-| :--- | :--- |
-| **Empresa** | [LucHost Web](https://luchost.com.br) |
-| **Local** | Uberaba, Brasil |
-| **Foco** | Produtos web, APIs e infraestrutura |
-| **Contato** | [toledomg@yahoo.com.br](mailto:toledomg@yahoo.com.br) |
+- 🏢 **[LucHost Web](https://luchost.com.br)** — empresa e portfólio
+- 🚀 **Em construção** — produtos próprios e ferramentas internas
+- 📩 **[toledomg@yahoo.com.br](mailto:toledomg@yahoo.com.br)** — bora conversar
 
 ---
 
 ### Portfolio
 
-Site institucional e vitrine de projetos:
-
 <p align="center">
   <a href="https://luchost.com.br">
-    <img src="./public/assets/images/icon-64.png" width="40" height="40" alt="LucHost" />
+    <img src="./public/assets/images/icon-64.png" height="22" alt="LucHost" />
   </a>
-  &nbsp;
-  <a href="https://luchost.com.br"><img src="https://img.shields.io/badge/luchost.com.br-161b22?style=for-the-badge&logoColor=7CB0FF&color=161b22" alt="luchost.com.br" /></a>
-  <a href="https://luchost.com.br"><img src="https://img.shields.io/badge/%3C%2FtoledoDev%3E-7CB0FF?style=for-the-badge&labelColor=161b22&color=238636" alt="toledoDev" /></a>
+  <a href="https://luchost.com.br"><img src="https://img.shields.io/badge/luchost.com.br-161b22?style=flat-square&color=161b22" alt="luchost.com.br" /></a>
+  <a href="https://luchost.com.br"><img src="https://img.shields.io/badge/%3C%2FtoledoDev%3E-238636?style=flat-square&labelColor=161b22&color=238636" alt="toledoDev" /></a>
 </p>
 
 ---
