@@ -27,9 +27,9 @@
 
 Sou **FullStack** e fundador da **[LucHost Web](https://luchost.com.br)**. Transformamos ideias em produtos digitais — do design da interface ao deploy em produção.
 
-Especializado em **React / Next.js** e **TypeScript**, com backends em **Node / NestJS** ou **Python / Django**. Entrego sistemas que clientes usam de verdade: estáveis, rápidos e fáceis de evoluir.
+Especializado em **React / Next.js** e **TypeScript**, com backends em **Node / NestJS** ou **Python / Django**. Desenvolvemos sistemas que clientes usam de verdade: estáveis, rápidos e fáceis de evoluir.
 
-Baseado em **Uberaba, BR**, atendendo clientes no **Brasil e além** — produtos web, APIs e automação.
+Raízes em **Uberaba, BR** — entregamos software para quem precisa, **onde estiver**.
 
 - 🏢 **[LucHost Web](https://luchost.com.br)** — projetos sob demanda e produtos digitais
 - 🛠️ **Stack principal** — TypeScript · React/Next · Node/Nest · Python/Django
@@ -54,20 +54,21 @@ Baseado em **Uberaba, BR**, atendendo clientes no **Brasil e além** — produto
 
 <br />
 
-| Área         | Tecnologias                                                      |
-| :----------- | :--------------------------------------------------------------- |
-| **Frontend** | JavaScript · TypeScript · React · Next.js · Angular |
-| **Backend**  | Node.js · Express · NestJS · Python · Django · Django REST       |
-| **Dados**    | PostgreSQL · MySQL · Mongo · Redis · Prisma · TypeORM            |
-| **DevOps**   | Docker · Jest                                                    |
+| Área         | Tecnologias                                                |
+| :----------- | :--------------------------------------------------------- |
+| **Frontend** | JavaScript · TypeScript · React · Next.js · Angular        |
+| **Backend**  | Node.js · Express · NestJS · Python · Django · Django REST |
+| **Dados**    | PostgreSQL · MySQL · Mongo · Redis · Prisma · TypeORM      |
+| **DevOps**   | Docker · Jest                                              |
 
 ---
 
 ### GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=toledomg&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=toledomg&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top languages" />
+
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=toledomg&show_icons=true&theme=city_lights&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub stats" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=toledomg&layout=compact&langs_count=8&theme=city_lights&hide_border=true" alt="Top languages" />
 </p>
 
 ---
@@ -75,7 +76,14 @@ Baseado em **Uberaba, BR**, atendendo clientes no **Brasil e além** — produto
 ### Contato
 
 <p align="center">
-  <a href="mailto:toledomg@yahoo.com.br"><img src="https://img.shields.io/badge/toledomg%40yahoo.com.br-161b22?style=flat-square&logo=gmail&logoColor=8b949e" alt="Email" /></a>
-  <a href="https://linkedin.com/in/toledomg"><img src="https://img.shields.io/badge/linkedin%2Fin%2Ftoledomg-161b22?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
-  <a href="https://luchost.com.br"><img src="https://img.shields.io/badge/luchost.com.br-161b22?style=flat-square&logo=googlechrome&logoColor=7CB0FF" alt="Site" /></a>
+
+<a href="mailto:toledomg@yahoo.com.br"><img src="https://img.shields.io/badge/toledomg%40yahoo.com.br-161b22?style=flat-square&logo=gmail&logoColor=8b949e" alt="Email" />
+</a>
+
+<a href="https://linkedin.com/in/toledomg"><img src="https://img.shields.io/badge/linkedin%2Fin%2Ftoledomg-161b22?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
+</a>
+
+<a href="https://luchost.com.br"><img src="https://img.shields.io/badge/luchost.com.br-161b22?style=flat-square&logo=googlechrome&logoColor=7CB0FF" alt="Site" />
+</a>
+
 </p>
