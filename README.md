@@ -76,14 +76,7 @@ Raízes em **Uberaba, BR** — entregamos software para quem precisa, **onde est
 ### Contato
 
 <p align="center">
-
-<a href="mailto:toledomg@yahoo.com.br"><img src="https://img.shields.io/badge/toledomg%40yahoo.com.br-161b22?style=flat-square&logo=gmail&logoColor=8b949e" alt="Email" />
-</a>
-
-<a href="https://linkedin.com/in/toledomg"><img src="https://img.shields.io/badge/linkedin%2Fin%2Ftoledomg-161b22?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
-</a>
-
-<a href="https://luchost.com.br"><img src="https://img.shields.io/badge/luchost.com.br-161b22?style=flat-square&logo=googlechrome&logoColor=7CB0FF" alt="Site" />
-</a>
-
+  <a href="mailto:toledomg@yahoo.com.br"><img src="https://img.shields.io/badge/toledomg%40yahoo.com.br-161b22?style=flat-square&logo=gmail&logoColor=8b949e" alt="Email" /></a>
+  <a href="https://linkedin.com/in/toledomg"><img src="https://img.shields.io/badge/linkedin%2Fin%2Ftoledomg-161b22?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
+  <a href="https://luchost.com.br"><img src="https://img.shields.io/badge/luchost.com.br-161b22?style=flat-square&logo=googlechrome&logoColor=7CB0FF" alt="Site" /></a>
 </p>
