@@ -40,14 +40,8 @@ Hoje em **Uberaba, BR** · foco em produtos web, APIs e automação.
 ### Portfolio
 
 <p align="center">
-  <a href="https://luchost.com.br">
-    <img src="./public/assets/images/logo-readme.png" height="40" alt="LucHost Web Services" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://luchost.com.br"><img src="https://img.shields.io/badge/luchost.com.br-161b22?style=flat-square&color=161b22" alt="Site" /></a>
-  <a href="https://luchost.com.br"><img src="https://img.shields.io/badge/%3C%2FtoledoDev%3E-161b22?style=flat-square&color=238636" alt="toledoDev" /></a>
+  <a href="https://luchost.com.br"><img src="https://img.shields.io/badge/LucHost-luchost.com.br-161b22?style=flat-square" alt="LucHost" /></a>
+  <a href="https://luchost.com.br"><img src="https://img.shields.io/badge/%3C%2FtoledoDev%3E-238636?style=flat-square" alt="toledoDev" /></a>
 </p>
 
 ---
