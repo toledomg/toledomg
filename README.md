@@ -49,7 +49,7 @@ Raízes em **Uberaba, BR** — entregamos software para quem precisa, **onde est
 ### Stack
 
 <p align="center">
-  <img src="./public/assets/images/stack.svg" alt="Stack" />
+  <img src="./public/assets/images/stack.png" alt="Stack" />
 </p>
 
 <br />
