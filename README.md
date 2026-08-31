@@ -31,9 +31,9 @@ Especializado em **React / Next.js** e **TypeScript**, com backends em **Node / 
 
 Hoje em **Uberaba, BR** · foco em produtos web, APIs e automação.
 
-- 🏢 **[LucHost Web](https://luchost.com.br)** — empresa e portfólio
-- 🚀 **Em construção** — produtos próprios e ferramentas internas
-- 📩 **[toledomg@yahoo.com.br](mailto:toledomg@yahoo.com.br)** — bora conversar
+- 🏢 **[LucHost Web](https://luchost.com.br)** — projetos sob demanda e produtos digitais
+- 🛠️ **Stack principal** — TypeScript · React/Next · Node/Nest · Python/Django
+- 🔗 **[LinkedIn](https://linkedin.com/in/toledomg)** · **[Email](mailto:toledomg@yahoo.com.br)**
 
 ---
 
@@ -41,10 +41,13 @@ Hoje em **Uberaba, BR** · foco em produtos web, APIs e automação.
 
 <p align="center">
   <a href="https://luchost.com.br">
-    <img src="./public/assets/images/icon-64.png" height="22" alt="LucHost" />
+    <img src="./public/assets/images/logo-readme.png" height="40" alt="LucHost Web Services" />
   </a>
-  <a href="https://luchost.com.br"><img src="https://img.shields.io/badge/luchost.com.br-161b22?style=flat-square&color=161b22" alt="luchost.com.br" /></a>
-  <a href="https://luchost.com.br"><img src="https://img.shields.io/badge/%3C%2FtoledoDev%3E-238636?style=flat-square&labelColor=161b22&color=238636" alt="toledoDev" /></a>
+</p>
+
+<p align="center">
+  <a href="https://luchost.com.br"><img src="https://img.shields.io/badge/luchost.com.br-161b22?style=flat-square&color=161b22" alt="Site" /></a>
+  <a href="https://luchost.com.br"><img src="https://img.shields.io/badge/%3C%2FtoledoDev%3E-161b22?style=flat-square&color=238636" alt="toledoDev" /></a>
 </p>
 
 ---
