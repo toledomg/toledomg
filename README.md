@@ -11,9 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=450&size=16&pause=1200&color=7CB0FF&center=true&vCenter=true&width=460&height=28&lines=Aplicações+web+de+ponta+a+ponta;React+%2F+Next.js+%2B+Node+%2F+Nest+%2B+Python" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=7CB0FF&center=true&vCenter=true&width=480&height=28&lines=Aplica%C3%A7%C3%B5es+web+de+ponta+a+ponta;React+%2F+Next.js+%2B+Node+%2F+Nest+%2B+Python" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -31,8 +29,8 @@
 <br />
 
 <p align="center">
-  <img height="148" src="https://github-readme-stats.vercel.app/api?username=toledomg&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7CB0FF&icon_color=7CB0FF&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="148" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toledomg&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7CB0FF&text_color=c9d1d9&langs_count=6" alt="Top languages" />
+  <img height="148" src="https://github-stats-extended.vercel.app/api?username=toledomg&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img height="148" src="https://github-stats-extended.vercel.app/api/top-langs/?username=toledomg&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Top languages" />
 </p>
 
 <br />
