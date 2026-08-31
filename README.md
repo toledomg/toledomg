@@ -29,8 +29,11 @@
 <br />
 
 <p align="center">
-  <img height="148" src="https://github-stats-extended.vercel.app/api?username=toledomg&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="148" src="https://github-stats-extended.vercel.app/api/top-langs/?username=toledomg&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Top languages" />
+
+<img height="160px" width="360px" src="https://github-stats-extended.vercel.app/api?username=toledomg&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
+<img height="160px" width="360px" src="https://github-stats-extended.vercel.app/api/top-langs/?username=toledomg&layout=compact&langs_count=16&theme=dracula"/>
+
 </p>
 
 <br />
