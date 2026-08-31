@@ -1,23 +1,5 @@
 <div style="background-color:#22272e;">
 
-<!--
-<h3 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
-
-<h1 align="center" style="font-weight: bold;">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7CB0FF&width=435&lines=ol%C3%A1%2C+sou+Alexsandro%2C+seja+Bem+Vindo!)](https://git.io/typing-svg)
-
-</h1>
-
-<h2 align="center" style="font-style: italic;">
-
-_"Adote um estilo e escolha o seu caminho. Seja você mesmo antes de tudo."_
-
-</h2>
--->
-
 <h3 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
@@ -36,90 +18,59 @@ _"Adote um estilo e escolha o seu caminho. Seja você mesmo antes de tudo."_
 
 ---
 
-- 🔭 Atualmente estou trabalhando **LucHost Web**
-- 🚀 Sou desenvolvedor **FullStack**
-- 💬 Pergunte-me sobre  
-  **HTML, CSS, JavaScript, TypeScript, React, Next.js, Node.js, Express, SQL, PostgreSQL, MySQL, TypeORM, Python, Django, Django Rest Framework, NestJS, Lógica de Programação**
-- 📫 Como chegar até mim: **<toledomg@yahoo.com.br>**
+<p align="center">
+  FullStack Developer · <a href="https://luchost.com.br">LucHost Web</a> · Uberaba, BR<br>
+  <sub>Aplicações web de ponta a ponta — frontend, APIs, dados e deploy</sub>
+</p>
 
 ---
 
 ## ✨ Portfolio
 
-[![Preview](https://img.shields.io/badge/Preview-000?style=for-the-badge&logo=github&logoColor=7520FF)](https://luchost.com.br/)
-[![GitHub Page](https://img.shields.io/badge/</toledoDev>-7520FF?style=for-the-badge)](https://luchost.com.br/)
+<p align="center">
+  <a href="https://luchost.com.br/">
+    <img src="./public/assets/images/icon-64.png" width="36" height="36" alt="LucHost" />
+  </a>
+  <br>
+  <a href="https://luchost.com.br/"><sub>luchost.com.br</sub></a>
+</p>
 
 ---
 
 ## 🧰 Linguagens e Ferramentas
 
-<div align="center" style="display:flex; flex-wrap:wrap; gap:12px; justify-content:center; align-items:center;">
+<p align="center">
+  <sub>Frontend</sub><br>
+  <img src="https://img.shields.io/badge/HTML5-21262d?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-21262d?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-21262d?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-21262d?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-21262d?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-21262d?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Angular-21262d?style=flat-square&logo=angular&logoColor=DD0031" alt="Angular" />
+</p>
 
-<a href="https://www.w3.org/html/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-</a>
+<p align="center">
+  <sub>Backend</sub><br>
+  <img src="https://img.shields.io/badge/Node.js-21262d?style=flat-square&logo=nodedotjs&logoColor=339933" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-21262d?style=flat-square&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/NestJS-21262d?style=flat-square&logo=nestjs&logoColor=E0234E" alt="NestJS" />
+  <img src="https://img.shields.io/badge/Python-21262d?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
+  <img src="https://img.shields.io/badge/Django-21262d?style=flat-square&logo=django&logoColor=44B78B" alt="Django" />
+</p>
 
-<a href="https://www.w3schools.com/css/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-</a>
+<p align="center">
+  <sub>Dados</sub><br>
+  <img src="https://img.shields.io/badge/PostgreSQL-21262d?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-21262d?style=flat-square&logo=mysql&logoColor=4479A1" alt="MySQL" />
+  <img src="https://img.shields.io/badge/TypeORM-21262d?style=flat-square&logo=typeorm&logoColor=FE0902" alt="TypeORM" />
+</p>
 
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.typescriptlang.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://reactjs.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<a href="https://nextjs.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://nodejs.org" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://expressjs.com" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.w3schools.com/sql/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.postgresql.org" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<a href="https://jestjs.io" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.python.org" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.djangoproject.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.docker.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://nestjs.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://angular.io/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="40" height="40"/>
-</a>
-
-</div>
+<p align="center">
+  <sub>DevOps & Qualidade</sub><br>
+  <img src="https://img.shields.io/badge/Docker-21262d?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
+  <img src="https://img.shields.io/badge/Jest-21262d?style=flat-square&logo=jest&logoColor=C21325" alt="Jest" />
+</p>
 
 ---
 
@@ -139,16 +90,13 @@ _"Adote um estilo e escolha o seu caminho. Seja você mesmo antes de tudo."_
 
 ---
 
-## 🌐 Conecte-se comigo
+## 🌐 Contato
 
-<div align="center">
-  <a href="https://linkedin.com/in/toledomg" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="30"/>
-  </a>
-
-  <a href="https://instagram.com/oalextoledo" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="30"/>
-  </a>
-</div>
+<p align="center">
+  <a href="mailto:toledomg@yahoo.com.br"><img src="https://img.shields.io/badge/Email-21262d?style=flat-square&logo=gmail&logoColor=8b949e" alt="Email" /></a>
+  <a href="https://linkedin.com/in/toledomg"><img src="https://img.shields.io/badge/LinkedIn-21262d?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/oalextoledo"><img src="https://img.shields.io/badge/Instagram-21262d?style=flat-square&logo=instagram&logoColor=E4405F" alt="Instagram" /></a>
+  <a href="https://luchost.com.br"><img src="https://img.shields.io/badge/Site-21262d?style=flat-square&logo=googlechrome&logoColor=8b949e" alt="Site" /></a>
+</p>
 
 </div>
