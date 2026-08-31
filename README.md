@@ -25,11 +25,11 @@
 
 ### Sobre mim
 
-Sou **FullStack** e fundador da **[LucHost Web](https://luchost.com.br)**. Transformo ideias em produtos digitais — do design da interface ao deploy em produção.
+Sou **FullStack** e fundador da **[LucHost Web](https://luchost.com.br)**. Transformamos ideias em produtos digitais — do design da interface ao deploy em produção.
 
 Especializado em **React / Next.js** e **TypeScript**, com backends em **Node / NestJS** ou **Python / Django**. Entrego sistemas que clientes usam de verdade: estáveis, rápidos e fáceis de evoluir.
 
-Hoje em **Uberaba, BR** · foco em produtos web, APIs e automação.
+Baseado em **Uberaba, BR**, atendendo clientes no **Brasil e além** — produtos web, APIs e automação.
 
 - 🏢 **[LucHost Web](https://luchost.com.br)** — projetos sob demanda e produtos digitais
 - 🛠️ **Stack principal** — TypeScript · React/Next · Node/Nest · Python/Django
@@ -49,17 +49,17 @@ Hoje em **Uberaba, BR** · foco em produtos web, APIs e automação.
 ### Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,nodejs,express,nestjs,python,django,postgres,mysql,docker&theme=dark" alt="Stack" />
+  <img src="./public/assets/images/stack.svg" alt="Stack" />
 </p>
 
 <br />
 
-| Área | Tecnologias |
-| :--- | :--- |
-| **Frontend** | HTML · CSS · JavaScript · TypeScript · React · Next.js · Angular |
-| **Backend** | Node.js · Express · NestJS · Python · Django · Django REST |
-| **Dados** | PostgreSQL · MySQL · TypeORM |
-| **DevOps** | Docker · Jest |
+| Área         | Tecnologias                                                      |
+| :----------- | :--------------------------------------------------------------- |
+| **Frontend** | JavaScript · TypeScript · React · Next.js · Angular |
+| **Backend**  | Node.js · Express · NestJS · Python · Django · Django REST       |
+| **Dados**    | PostgreSQL · MySQL · Mongo · Redis · Prisma · TypeORM            |
+| **DevOps**   | Docker · Jest                                                    |
 
 ---
 
