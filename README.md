@@ -33,16 +33,15 @@ Não entregamos só código: entregamos operação. Sistemas de gestão, platafo
 
 ### Em destaque
 
-| Produto                | O que resolve                                  |
-| :--------------------- | :--------------------------------------------- |
-| **Smart Bov**          | Gestão pecuária — web + API em TypeScript      |
-| **O Sorveteiro**       | Operação de vendas (API, front, e-mail e site) |
-| **MyLoad**             | Plataforma para personal trainer (web + API)   |
-| **VPN / Wire**         | OpenVPN e WireGuard com painel web próprio     |
-| **Sports / PlayNauta** | APIs e apps para eventos e conteúdo esportivo  |
-| **Storage & mídia**    | Gestores de arquivos, vídeo e streaming        |
-
-Mais em **[luchost.com.br](https://luchost.com.br)** · `</toledoDev>`
+| Produto                                                                                                                                                 | Descrição                                              |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------ | :----------------------------------------------------- |
+| <a href="http://smartbov.luchost.com/" target="_blank" rel="noopener noreferrer"><strong>SmartBov</strong></a> — Gerenciamento de Confinamentos         | _Em desenvolvimento_ · gestão pecuária e confinamentos |
+| <a href="https://sorveteiro.app" target="_blank" rel="noopener noreferrer"><strong>O Sorveteiro</strong></a> — Gerenciamento de Carrinhos · Sorveterias | Plataforma de operação e vendas                        |
+| <a href="https://myload.com.br" target="_blank" rel="noopener noreferrer"><strong>MyLoad</strong></a> — Gerenciamento de Cargas                         | Logística e controle de cargas                         |
+| <a href="https://esporteapi.com.br" target="_blank" rel="noopener noreferrer"><strong>EsporteAPI</strong></a>                                           | APIs e dados esportivos                                |
+| <a href="https://luchost.com.br" target="_blank" rel="noopener noreferrer"><strong>WebPlayer</strong></a> — Player de Vídeo                             | Gestão e reprodução de conteúdo                        |
+| <a href="https://zault.cloud" target="_blank" rel="noopener noreferrer"><strong>Zault Backup</strong></a> — Backup de Arquivos                          | Armazenamento e backup na nuvem                        |
+| <a href="https://luchost.com.br" target="_blank" rel="noopener noreferrer"><strong>LucHost Web</strong></a>                                             | Software house · projetos sob demanda                  |
 
 ---
 
